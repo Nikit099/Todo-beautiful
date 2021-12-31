@@ -1,0 +1,120 @@
+html {
+    background-color: hsl(235, 21%, 11%);
+    overflow-x: hidden;
+}
+
+.App {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.App .item-todo {
+    padding-top: 25px;
+    margin: 0 auto;
+    text-align: left;
+    background: hsl(235, 24%, 19%);
+    color: hsl(234, 39%, 85%);
+    border: none;
+    cursor: pointer;
+    position: relative;
+    top: 60px;
+    width: 710px;
+    border-bottom: 1px solid;
+    height: 50px;
+    font-size: 18px;
+    word-break: break-all;
+    padding-left: 50px;
+    box-shadow: 0px 8px 40px rgb(1, 1, 2);
+    top: 100px;
+}
+
+.App .item-todo .item-text {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.App .text {
+    padding: 14px 30px;
+    outline: none;
+    background: transparent;
+    background: hsl(235, 24%, 19%);
+    color: hsl(234, 39%, 85%);
+    border: none;
+    position: relative;
+    top: 50px;
+    width: 680px;
+    height: 50px;
+    font-size: 18px;
+    box-shadow: 0px 7px 20px rgb(45, 37, 59);
+}
+
+.App .item-todo .item-delete {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 25px;
+    float: right;
+    position: relative;
+    width: 15px;
+    padding-right: 15px;
+}
+
+.item-delete {
+    display: none;
+}
+
+.item-todo:hover .item-delete {
+    display: block;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.App .after {
+    position: absolute;
+    width: 1920px;
+    z-index: -1;
+    left: 0;
+    top: 0;
+}
+
+.App .h1 {
+    color: hsl(233, 76%, 89%);
+    position: relative;
+    right: 243px;
+    top: 45px;
+    font-size: 65px;
+    letter-spacing: 16px;
+}
+
+.checkbox-round {
+    width: 1.3em;
+    height: 1.3em;
+    border-radius: 50%;
+    vertical-align: middle;
+    appearance: inherit;
+    cursor: pointer;
+    border: solid 1px hsl(234, 39%, 85%);
+    position: absolute;
+    left: 10px;
+    bottom: 27px;
+}
+
+.checkbox-round:checked {
+    background: linear-gradient(hsl(192, 100%, 67%), hsl(280, 87%, 65%));
+    border: linear-gradient(hsl(192, 100%, 67%), hsl(280, 87%, 65%));
+}
+
+.checkbox-round:hover {
+    background: linear-gradient(hsl(192, 100%, 67%), hsl(280, 87%, 65%));
+}
+
+.footer {
+    position: absolute;
+    left: 860px;
+    color: rgb(126, 128, 139);
+    opacity: 0.6;
+    position: fixed;
+    top: 95%;
+    left: 89%;
+}
