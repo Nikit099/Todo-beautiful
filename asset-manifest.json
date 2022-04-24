@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ToDo2/static/css/main.a863531f.chunk.css",
-    "main.js": "/ToDo2/static/js/main.df0d2650.chunk.js",
-    "main.js.map": "/ToDo2/static/js/main.df0d2650.chunk.js.map",
-    "runtime-main.js": "/ToDo2/static/js/runtime-main.0a09478d.js",
-    "runtime-main.js.map": "/ToDo2/static/js/runtime-main.0a09478d.js.map",
-    "static/js/2.3ac76798.chunk.js": "/ToDo2/static/js/2.3ac76798.chunk.js",
-    "static/js/2.3ac76798.chunk.js.map": "/ToDo2/static/js/2.3ac76798.chunk.js.map",
-    "index.html": "/ToDo2/index.html",
-    "static/css/main.a863531f.chunk.css.map": "/ToDo2/static/css/main.a863531f.chunk.css.map",
-    "static/js/2.3ac76798.chunk.js.LICENSE.txt": "/ToDo2/static/js/2.3ac76798.chunk.js.LICENSE.txt",
-    "static/media/bg-desktop-dark.73e47dbb.jpg": "/ToDo2/static/media/bg-desktop-dark.73e47dbb.jpg"
+    "main.css": "/Todo-beautiful/static/css/main.a863531f.chunk.css",
+    "main.js": "/Todo-beautiful/static/js/main.df0d2650.chunk.js",
+    "main.js.map": "/Todo-beautiful/static/js/main.df0d2650.chunk.js.map",
+    "runtime-main.js": "/Todo-beautiful/static/js/runtime-main.bf3e9163.js",
+    "runtime-main.js.map": "/Todo-beautiful/static/js/runtime-main.bf3e9163.js.map",
+    "static/js/2.3ac76798.chunk.js": "/Todo-beautiful/static/js/2.3ac76798.chunk.js",
+    "static/js/2.3ac76798.chunk.js.map": "/Todo-beautiful/static/js/2.3ac76798.chunk.js.map",
+    "index.html": "/Todo-beautiful/index.html",
+    "static/css/main.a863531f.chunk.css.map": "/Todo-beautiful/static/css/main.a863531f.chunk.css.map",
+    "static/js/2.3ac76798.chunk.js.LICENSE.txt": "/Todo-beautiful/static/js/2.3ac76798.chunk.js.LICENSE.txt",
+    "static/media/bg-desktop-dark.73e47dbb.jpg": "/Todo-beautiful/static/media/bg-desktop-dark.73e47dbb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a09478d.js",
+    "static/js/runtime-main.bf3e9163.js",
     "static/js/2.3ac76798.chunk.js",
     "static/css/main.a863531f.chunk.css",
     "static/js/main.df0d2650.chunk.js"
